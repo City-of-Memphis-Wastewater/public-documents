@@ -18,137 +18,83 @@ The 2023 calendar year was characterized by intense environmental and infrastruc
 
 ### **Equipment & Infrastructure**
 
-* 
-**Pumps & Motors:** Raw sewage pumps (RSP #1–4), return sludge pumps (RAS), temporary ABF pumps (#3, #5), and WEMCO pumps.
+- **Pumps & Motors:** Raw sewage pumps (RSP #1–4), return sludge pumps (RAS), temporary ABF pumps (#3, #5), and WEMCO pumps.
 
+- **Treatment Units:** Coarse bar screens (CBS), fine bar screens (FBS), primary and secondary clarifiers, and trickling filter (TF) arms.
 
-* 
-**Treatment Units:** Coarse bar screens (CBS), fine bar screens (FBS), primary and secondary clarifiers, and trickling filter (TF) arms.
+- **Specialized Assets:** Emerson Ovation DCS, BioRem biological odor control, EDI fine bubble diffusers (FBD), and new HDPE covers for grit tanks.
 
-
-* 
-**Specialized Assets:** Emerson Ovation DCS, BioRem biological odor control, EDI fine bubble diffusers (FBD), and new HDPE covers for grit tanks.
-
-
-* 
-**Mobile/Temporary Gear:** Xylem bypass pumping systems, frac tanks for waste storage, and a 12-inch hydraulic power unit.
-
-
+- **Mobile/Temporary Gear:** Xylem bypass pumping systems, frac tanks for waste storage, and a 12-inch hydraulic power unit.
 
 ### **Contractors & Entities**
 
-* 
-**Xylem:** Handled the Nonconnah Interceptor bypass, pipe fusing, and cleaning of fine bubble diffusers.
+- **Xylem:** Handled the Nonconnah Interceptor bypass, pipe fusing, and cleaning of fine bubble diffusers.
 
 
-* 
-**Chris Hill Construction:** Performed critical repairs on coarse bar screens, return sludge pumps, and the Nonconnah withdrawal tubes.
+- **Chris Hill Construction:** Performed critical repairs on coarse bar screens, return sludge pumps, and the Nonconnah withdrawal tubes.
 
+- **Evonik:** Managed PAA (peracetic acid) disinfection transfers, gravity feed installations, and color monitoring.
 
-* 
-**Evonik:** Managed PAA (peracetic acid) disinfection transfers, gravity feed installations, and color monitoring.
+- **Denali:** Executed biosolids transfers between the Stiles and Maxson facilities for surface disposal.
 
-
-* 
-**Denali:** Executed biosolids transfers between the Stiles and Maxson facilities for surface disposal.
-
-
-* 
-**CDM Smith:** Managed the solar farm project and aeration basin header leak repairs.
-
+- **CDM Smith:** Managed the solar farm project and aeration basin header leak repairs.
 
 
 ### **Failure Modes & Operational Hazards**
 
-* 
-**Sewer Collapse/Sinkhole:** The failure of the 50-year-old Armco Smooth-Flo interceptor caused massive debris (asphalt, steel) to hit bar screens.
+- **Sewer Collapse/Sinkhole:** The failure of the 50-year-old Armco Smooth-Flo interceptor caused massive debris (asphalt, steel) to hit bar screens.
 
+- **Grease Plug Formation:** A "giant grease plug" (12–18 inches thick) built up in the Nonconnah Interceptor, eventually growing to "gigantic proportions".
 
-* 
-**Grease Plug Formation:** A "giant grease plug" (12–18 inches thick) built up in the Nonconnah Interceptor, eventually growing to "gigantic proportions".
+- **Slug Discharges:** Fibers from Memphis Cellulose and slimy/greasy discharges from companies like Van Guard Soap and American Yeast fouled disinfection units and probes.
 
+- **Environmental Pipe Bursts:** Sub-freezing temperatures and rolling power blackouts caused Biorem and dewatering pipes to burst.
 
-* 
-**Slug Discharges:** Fibers from Memphis Cellulose and slimy/greasy discharges from companies like Van Guard Soap and American Yeast fouled disinfection units and probes.
-
-
-* 
-**Environmental Pipe Bursts:** Sub-freezing temperatures and rolling power blackouts caused Biorem and dewatering pipes to burst.
-
-
-* 
-**Data Erasure:** Installation of the new DCS in November resulted in the erasure of much original data.
+- **Data Erasure:** Installation of the new DCS in November resulted in the erasure of much original data.
 
 
 
 ### **Key Metrics (Performance)**
 
-* 
-**Flow & Rainfall:** Average daily flow was 66 MGD (a 2 MGD decrease) with 55 inches of total rainfall.
+- **Flow & Rainfall:** Average daily flow was 66 MGD (a 2 MGD decrease) with 55 inches of total rainfall.
 
+- **Loading:** Influent BOD loading averaged 388,482 ppd (a 16% decrease), while TSS averaged 331,840 ppd (a 20% decrease).
 
-* 
-**Loading:** Influent BOD loading averaged 388,482 ppd (a 16% decrease), while TSS averaged 331,840 ppd (a 20% decrease).
+- **Efficiency:** Removal efficiency was 83% for BOD and 75% for TSS.
 
+- **Work Orders:** A total of 6,273 work orders were completed, including 5,733 preventative tasks.
 
-* 
-**Efficiency:** Removal efficiency was 83% for BOD and 75% for TSS.
-
-
-* 
-**Work Orders:** A total of 6,273 work orders were completed, including 5,733 preventative tasks.
-
-
-* 
-**Disinfection Costs:** Annual disinfection costs rose to $15,048,244 at the Stiles facility, representing 36.7% of total expenditures.
+- **Disinfection Costs:** Annual disinfection costs rose to $15,048,244 at the Stiles facility, representing 36.7% of total expenditures.
 
 
 
 ### **Phenomena Tracked in Depth**
 
-* 
-**True Color Contributors:** Detailed mass balance analysis identified Memphis Cellulose (48%), American Yeast (12%), and Runyon (6%) as the primary drivers of pre-disinfection color.
+- **True Color Contributors:** Detailed mass balance analysis identified Memphis Cellulose (48%), American Yeast (12%), and Runyon (6%) as the primary drivers of pre-disinfection color.
 
+- **Molybdenum Levels:** Creeping levels of molybdenum (associated with closed-loop cooling towers) were tracked in biosolids.
 
-* 
-**Molybdenum Levels:** Creeping levels of molybdenum (associated with closed-loop cooling towers) were tracked in biosolids.
+- **River Stage Impact:** The Mississippi River hit a record low of -12.04 feet in October, and its stage was correlated to bypass pumping needs and fish intrusion.
 
-
-* 
-**River Stage Impact:** The Mississippi River hit a record low of -12.04 feet in October, and its stage was correlated to bypass pumping needs and fish intrusion.
-
-
-* 
-**Foam Analysis:** Ongoing studies by Dr. Lange into the chemical composition of aeration basin and race way foam.
-
-
+- **Foam Analysis:** Ongoing studies by Dr. Lange into the chemical composition of aeration basin and race way foam.
 
 ---
 
 ### **Legal & Regulatory Milestones (Suggested)**
 
-* 
-**HLSD Lawsuit:** The Judge ruled the contract ended on September 22, 2023, requiring the jurisdiction to submit a 10-year rate escalation and construction schedule.
+- **HLSD Lawsuit:** The Judge ruled the contract ended on September 22, 2023, requiring the jurisdiction to submit a 10-year rate escalation and construction schedule.
+
+- **EPA Judicial Referral:** The EPA planned a judicial referral to the DOJ for ongoing SNC (Significant Non-Compliance) violations at Maxson.
 
 
-* 
-**EPA Judicial Referral:** The EPA planned a judicial referral to the DOJ for ongoing SNC (Significant Non-Compliance) violations at Maxson.
-
-
-* 
-**Permit Excursions:** Maxson saw a heavy concentration of excursions (e.g., 95 in December alone) for BOD, TSS, and Dissolved Oxygen.
+- **Permit Excursions:** Maxson saw a heavy concentration of excursions (e.g., 95 in December alone) for BOD, TSS, and Dissolved Oxygen.
 
 
 
 ### **Industrial Impact Observations (Suggested)**
 
-* 
-**Solae Production:** Employee strikes and unplanned downtime at Solae in June provided a "loading baseline" for the plant without this major contributor.
+- **Solae Production:** Employee strikes and unplanned downtime at Solae in June provided a "loading baseline" for the plant without this major contributor.
 
+- **TVA Effluent Reuse:** Extensive discussions began regarding providing tertiary treated effluent to the TVA Combined Cycle plant to replace their use of potable water.
 
-* 
-**TVA Effluent Reuse:** Extensive discussions began regarding providing tertiary treated effluent to the TVA Combined Cycle plant to replace their use of potable water.
-
-
-* 
-**Muriatic Acid Leak:** An overnight leak of approximately 1,010 lbs of muriatic acid from an industrial user slowly coated primary clarifiers in late June.
+- **Muriatic Acid Leak:** An overnight leak of approximately 1,010 lbs of muriatic acid from an industrial user slowly coated primary clarifiers in late June.

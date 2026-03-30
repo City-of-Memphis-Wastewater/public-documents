@@ -12,7 +12,7 @@ Based on the 2024 Calendar Year Report for the City of Memphis Wastewater Treatm
 
 The 2024 report details a year marked by significant infrastructure challenges, regulatory pressures, and major new industrial developments. The Maxson Wastewater Treatment Facility faced severe operational disruptions due to heavy grease accumulation, sub-freezing weather in January, and a major failure of the 96-inch Nonconnah Interceptor. These events led to numerous permit excursions for Biological Oxygen Demand (BOD) and Total Suspended Solids (TSS). Simultaneously, the city navigated the entry of xAI’s "Colossus" supercomputer project, which necessitates the rapid development of a grey water (tertiary treatment) facility to provide cooling water and reduce reliance on local aquifers. Maintenance activities were high, with over 6,000 work orders completed at Maxson alone, focusing on rebuilding aging pump and blower infrastructure.
 
-\---
+---
 
 ### Equipment Discussed
 
@@ -78,39 +78,39 @@ The plant tracks its efficiency through several standard wastewater indicators:
 
 
 
-\---
+---
 
 
 
-\### \*\*Timeline of Key Events (2024)\*\*
+### **Timeline of Key Events (2024)**
 
 
 
-The 2024 calendar year was dominated by the emergency repair of the Nonconnah Interceptor and the sudden impact of the xAI "Colossus" supercomputer project \[page: 272, 282].
+The 2024 calendar year was dominated by the emergency repair of the Nonconnah Interceptor and the sudden impact of the xAI "Colossus" supercomputer project [page: 272, 282].
 
 
 
-\- \*\*January 2024:\*\* Heavy grease (12-18 inches thick) prevents the restart of the 96-inch bypass \[page: 272]. Sub-freezing temperatures and 6 inches of snow lead to burst pipes and blower failures due to low water pressure \[page: 272].
+- **January 2024:** Heavy grease (12-18 inches thick) prevents the restart of the 96-inch bypass [page: 272]. Sub-freezing temperatures and 6 inches of snow lead to burst pipes and blower failures due to low water pressure [page: 272].
 
-\- \*\*February 2024:\*\* The south coarse bar screen rake malfunctions due to over-torquing from sewer debris \[page: 273]. Analysis of brown grease on the clarifiers identifies high concentrations of oleic acid from animal/vegetable origins \[page: 273].
+- **February 2024:** The south coarse bar screen rake malfunctions due to over-torquing from sewer debris [page: 273]. Analysis of brown grease on the clarifiers identifies high concentrations of oleic acid from animal/vegetable origins [page: 273].
 
-\- \*\*March 2024:\*\* Xylem begins emergency Nonconnah bypass pumping \[page: 277]. Extreme detergent-like foam in aeration basins is sampled and linked to fatty acids stabilized by surfactants \[page: 277].
+- **March 2024:** Xylem begins emergency Nonconnah bypass pumping [page: 277]. Extreme detergent-like foam in aeration basins is sampled and linked to fatty acids stabilized by surfactants [page: 277].
 
-\- \*\*April 2024:\*\* Sheet piling for the interceptor repair is completed \[page: 278]. A contractor is hired to clean fine bubble diffusers, successfully dropping the Dynamic Wet Pressure (DWP) from 40 to 30 inches \[page: 278].
+- **April 2024:** Sheet piling for the interceptor repair is completed [page: 278]. A contractor is hired to clean fine bubble diffusers, successfully dropping the Dynamic Wet Pressure (DWP) from 40 to 30 inches [page: 278].
 
-\- \*\*May 2024:\*\* Heavy rains lead to reported (though suspected) pumping rates of up to 170 mgd \[page: 279]. Distribution arms on Trickling Filters (TF) 1 and 5 fail, and the 96-inch sewer plug is found caught in the coarse bar screens \[page: 279].
+- **May 2024:** Heavy rains lead to reported (though suspected) pumping rates of up to 170 mgd [page: 279]. Distribution arms on Trickling Filters (TF) 1 and 5 fail, and the 96-inch sewer plug is found caught in the coarse bar screens [page: 279].
 
-\- \*\*June 2024:\*\* Media reports confirm xAI is building a supercomputer at the Electrolux site \[page: 282]. The City accelerates planning for a grey water (tertiary treatment) facility to support xAI's cooling needs \[page: 282].
+- **June 2024:** Media reports confirm xAI is building a supercomputer at the Electrolux site [page: 282]. The City accelerates planning for a grey water (tertiary treatment) facility to support xAI's cooling needs [page: 282].
 
-\- \*\*July 2024:\*\* Demolition of the original Administration Building begins \[page: 247]. The City and xAI review competing conceptual designs for the grey water plant, with costs ranging from $90 million to $170 million \[page: 283].
+- **July 2024:** Demolition of the original Administration Building begins [page: 247]. The City and xAI review competing conceptual designs for the grey water plant, with costs ranging from $90 million to $170 million [page: 283].
 
-\- \*\*August 2024:\*\* Maintenance efforts focus on the ongoing failure of trickling filter distribution arms, leaving only one unit functional \[page: 283].
+- **August 2024:** Maintenance efforts focus on the ongoing failure of trickling filter distribution arms, leaving only one unit functional [page: 283].
 
-\- \*\*September 2024:\*\* The 96-inch Nonconnah Interceptor repair continues with approximately 310 feet of pipe remaining to be laid \[page: 283].
+- **September 2024:** The 96-inch Nonconnah Interceptor repair continues with approximately 310 feet of pipe remaining to be laid [page: 283].
 
-\- \*\*October 2024:\*\* Evaluations of the 60-inch bypass line are finalized to ensure stability during the final phases of the interceptor repair \[page: 279].
+- **October 2024:** Evaluations of the 60-inch bypass line are finalized to ensure stability during the final phases of the interceptor repair [page: 279].
 
-\- \*\*November 2024:\*\* Emerson continues troubleshooting the DCS system to locate missing I/O points required for full integration into the new Administration Building \[page: 247].
+- **November 2024:** Emerson continues troubleshooting the DCS system to locate missing I/O points required for full integration into the new Administration Building [page: 247].
 
-\- \*\*December 2024:\*\* Major tunnel flooding occurs, damaging several motors and contributing to 58 permit excursions for the month.
+- **December 2024:** Major tunnel flooding occurs, damaging several motors and contributing to 58 permit excursions for the month.
 

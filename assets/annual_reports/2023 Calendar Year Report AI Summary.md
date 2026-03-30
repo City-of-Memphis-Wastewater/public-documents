@@ -14,7 +14,7 @@ Based on the 2023 Calendar Year Report for the City of Memphis Wastewater Treatm
 
 The 2023 calendar year was characterized by intense environmental and infrastructure challenges, primarily the **96-inch Nonconnah Interceptor failure** and major weather-related disruptions. Operational stability was frequently undermined by massive **grease accumulations**, extreme cold snaps that burst system pipes, and a series of industrial slug discharges that impacted disinfection efficacy. Despite these hurdles, the city saw a final ruling in the **HLSD lawsuit** and made significant progress on **WIFIA-funded projects**, including the new Administration Building. The year ended with a notable decrease in influent loading but a continued struggle against high permit excursions.
 
-\---
+---
 
 ### **Equipment \& Infrastructure**
 
@@ -63,7 +63,7 @@ The 2023 calendar year was characterized by intense environmental and infrastruc
 * **River Stage Impact:** The Mississippi River hit a record low of -12.04 feet in October, and its stage was correlated to bypass pumping needs and fish intrusion.
 * **Foam Analysis:** Ongoing studies by Dr. Lange into the chemical composition of aeration basin and race way foam.
 
-\---
+---
 
 ### **Legal \& Regulatory Milestones (Suggested)**
 
@@ -84,7 +84,7 @@ The 2023 calendar year was characterized by intense environmental and infrastruc
 
 
 
-\---
+---
 
 
 
@@ -92,41 +92,41 @@ Based on the 2023 and 2024 Calendar Year Reports, here are the detailed timeline
 
 
 
-\### \*\*Timeline of Key Events (2023)\*\*
+### **Timeline of Key Events (2023)**
 
 
 
-The 2023 calendar year was defined by the structural failure of the Nonconnah Interceptor and a conclusive ruling in the long-standing HLSD legal dispute \[page: 27, 31, 32].
+The 2023 calendar year was defined by the structural failure of the Nonconnah Interceptor and a conclusive ruling in the long-standing HLSD legal dispute [page: 27, 31, 32].
 
 
 
-\- \*\*January 2023:\*\* A severe cold snap causes rolling power blackouts and bursts pipes within the Maxson Facility dewatering and Biorem systems \[page: 30]. Significant white foam appears in aeration basins by late month \[page: 30].
+- **January 2023:** A severe cold snap causes rolling power blackouts and bursts pipes within the Maxson Facility dewatering and Biorem systems [page: 30]. Significant white foam appears in aeration basins by late month [page: 30].
 
-\- \*\*February 2023:\*\* TDEC issues a Notice of Violation (NOV) for significant non-compliance during late 2022 \[page: 30].
+- **February 2023:** TDEC issues a Notice of Violation (NOV) for significant non-compliance during late 2022 [page: 30].
 
-\- \*\*March 2023:\*\* A Judge dismisses the HLSD lawsuit in a summary judgment, ruling the contract ended in September 2023 \[page: 31]. The Maxson Facility begins using both sides for disinfection to manage high flows \[page: 31].
+- **March 2023:** A Judge dismisses the HLSD lawsuit in a summary judgment, ruling the contract ended in September 2023 [page: 31]. The Maxson Facility begins using both sides for disinfection to manage high flows [page: 31].
 
-\- \*\*April 2023:\*\* A sinkhole reveals the failure of the 96-inch Nonconnah Interceptor at the road crossing \[page: 32]. Debris from the failed asphalt-lined pipe begins entering the headworks, forcing all coarse bar screens (CBS) out of service \[page: 32].
+- **April 2023:** A sinkhole reveals the failure of the 96-inch Nonconnah Interceptor at the road crossing [page: 32]. Debris from the failed asphalt-lined pipe begins entering the headworks, forcing all coarse bar screens (CBS) out of service [page: 32].
 
-\- \*\*May 2023:\*\* TDEC issues an NOV for permit excursions occurring between January and April \[page: 38]. Judgment is finalized in the HLSD trial \[page: 39].
+- **May 2023:** TDEC issues an NOV for permit excursions occurring between January and April [page: 38]. Judgment is finalized in the HLSD trial [page: 39].
 
-\- \*\*June 2023:\*\* An employee strike at Solae leads to a loading baseline for the plant during their downtime \[page: 39]. A 16-inch primary sludge line is hit by a contractor, and a separate industrial leak of muriatic acid coats the primary clarifiers \[page: 39].
+- **June 2023:** An employee strike at Solae leads to a loading baseline for the plant during their downtime [page: 39]. A 16-inch primary sludge line is hit by a contractor, and a separate industrial leak of muriatic acid coats the primary clarifiers [page: 39].
 
-\- \*\*July 2023:\*\* High winds knock down ten power poles, forcing a switch to the south electrical circuit \[page: 40]. Fine bubble diffusers (FBD) show signs of heavy fouling, and a plant-wide power outage on July 25 results in a 1.7-million-gallon overflow \[page: 40, 44].
+- **July 2023:** High winds knock down ten power poles, forcing a switch to the south electrical circuit [page: 40]. Fine bubble diffusers (FBD) show signs of heavy fouling, and a plant-wide power outage on July 25 results in a 1.7-million-gallon overflow [page: 40, 44].
 
-\- \*\*August 2023:\*\* The EPA signals a judicial referral to the DOJ regarding ongoing non-compliance \[page: 48]. High temperatures and low water pressure cause cooling failures for blower motors \[page: 47].
+- **August 2023:** The EPA signals a judicial referral to the DOJ regarding ongoing non-compliance [page: 48]. High temperatures and low water pressure cause cooling failures for blower motors [page: 47].
 
-\- \*\*September 2023:\*\* \*\*Legal Milestone:\*\* The Judge issues the final ruling in the HLSD lawsuit, requiring the jurisdiction to submit a construction schedule for its own treatment facilities by year-end \[page: 56].
+- **September 2023:** **Legal Milestone:** The Judge issues the final ruling in the HLSD lawsuit, requiring the jurisdiction to submit a construction schedule for its own treatment facilities by year-end [page: 56].
 
-\- \*\*October 2023:\*\* The Mississippi River reaches a record low stage of -12.04 feet, impacting plant bypass operations.
+- **October 2023:** The Mississippi River reaches a record low stage of -12.04 feet, impacting plant bypass operations.
 
-\- \*\*November 2023:\*\* Maintenance focuses on replacing bio-pump motor starters and addressing recurring electrical gear issues.
+- **November 2023:** Maintenance focuses on replacing bio-pump motor starters and addressing recurring electrical gear issues.
 
-\- \*\*December 2023:\*\* The facility records 95 permit excursions, primarily for BOD and TSS, ending a year of high regulatory pressure.
+- **December 2023:** The facility records 95 permit excursions, primarily for BOD and TSS, ending a year of high regulatory pressure.
 
 
 
-\---
+---
 
 
 

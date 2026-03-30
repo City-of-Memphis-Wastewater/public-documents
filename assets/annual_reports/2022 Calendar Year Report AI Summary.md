@@ -70,7 +70,7 @@ The following timeline outlines the critical operational, construction, and lega
 - **January 2022:** Efforts continue to divert primary effluent around screw pumps for the intermediate pump station upgrade. A power outage on January 19th knocks out the only two functioning trickling filters shortly after their return to service.
 - **February 2022:** Extreme freezing weather causes significant operational strain. High back-pressure issues (8 psi) lead to multiple blower failures, attributed to the ongoing conversion from coarse to fine bubble diffusers.
 - **March 2022:** Construction begins on the peroxide pipeline for USP (later used for daily disinfection). Severe "billowing" white foam is observed 5-10 feet above handrails, impacting site safety and chemical deliveries.
-- **April 2022:*- **Major Legal Milestone:** A judicial ruling confirms the City of Memphis is not obligated to extend wholesale sewer service to the Horn Lake Creek Basin Interceptor District (HLSD) beyond September 2023.
+- **April 2022:** **Major Legal Milestone:** A judicial ruling confirms the City of Memphis is not obligated to extend wholesale sewer service to the Horn Lake Creek Basin Interceptor District (HLSD) beyond September 2023.
 - **May 2022:** The facility reaches a peak of 165 permit excursions for BOD and TSS. Investigation into "mystery grit" (cellulose-like particles) begins as it starts clogging grit tanks.
 - **June 2022:** Primary Clarifiers #1 and #2 suffer mechanical failures; failing drive units and floor grout interference lead to scraper blade damage.
 - **July 2022:** Forensic reporting by CDM Smith and EDI focuses on heavy organic fouling of the new fine bubble diffuser membranes, requiring extensive pressure washing.

@@ -10,6 +10,7 @@ The format is (read: strives to be) based on [Keep a Changelog](https://keepacha
 ### Added:
 - 2022 Calendar Year Report.pdf
 - 2022 Calendar Year Report AI Summary.md
+- Timeline sections to the 2023 and 2024 summary markdown files.
 
 ---
 

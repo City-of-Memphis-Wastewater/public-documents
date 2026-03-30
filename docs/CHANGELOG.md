@@ -6,6 +6,13 @@ The format is (read: strives to be) based on [Keep a Changelog](https://keepacha
 
 ---
 
+## [0.1.1] – 2026-03-30
+### Added:
+- 2022 Calendar Year Report.pdf
+- 2022 Calendar Year Report AI Summary.md
+
+---
+
 ## [0.1.0] – 2026-03-16
 ### Added:
 - Create repository, https://github.com/City-of-Memphis-Wastewater/public-documents

@@ -96,33 +96,33 @@ Based on the 2023 and 2024 Calendar Year Reports, here are the detailed timeline
 
 
 
-\[cite\_start]The 2023 calendar year was defined by the structural failure of the Nonconnah Interceptor and a conclusive ruling in the long-standing HLSD legal dispute\[cite: 27, 31, 32].
+The 2023 calendar year was defined by the structural failure of the Nonconnah Interceptor and a conclusive ruling in the long-standing HLSD legal dispute \[page: 27, 31, 32].
 
 
 
-\* \[cite\_start]\*\*January 2023:\*\* A severe cold snap causes rolling power blackouts and bursts pipes within the Maxson Facility dewatering and Biorem systems\[cite: 30]. \[cite\_start]Significant white foam appears in aeration basins by late month\[cite: 30].
+\- \*\*January 2023:\*\* A severe cold snap causes rolling power blackouts and bursts pipes within the Maxson Facility dewatering and Biorem systems \[page: 30]. Significant white foam appears in aeration basins by late month \[page: 30].
 
-\* \[cite\_start]\*\*February 2023:\*\* TDEC issues a Notice of Violation (NOV) for significant non-compliance during late 2022\[cite: 30].
+\- \*\*February 2023:\*\* TDEC issues a Notice of Violation (NOV) for significant non-compliance during late 2022 \[page: 30].
 
-\* \[cite\_start]\*\*March 2023:\*\* A Judge dismisses the HLSD lawsuit in a summary judgment, ruling the contract ended in September 2023\[cite: 31]. \[cite\_start]The Maxson Facility begins using both sides for disinfection to manage high flows\[cite: 31].
+\- \*\*March 2023:\*\* A Judge dismisses the HLSD lawsuit in a summary judgment, ruling the contract ended in September 2023 \[page: 31]. The Maxson Facility begins using both sides for disinfection to manage high flows \[page: 31].
 
-\* \[cite\_start]\*\*April 2023:\*\* A sinkhole reveals the failure of the 96-inch Nonconnah Interceptor at the road crossing\[cite: 32]. \[cite\_start]Debris from the failed asphalt-lined pipe begins entering the headworks, forcing all coarse bar screens (CBS) out of service\[cite: 32].
+\- \*\*April 2023:\*\* A sinkhole reveals the failure of the 96-inch Nonconnah Interceptor at the road crossing \[page: 32]. Debris from the failed asphalt-lined pipe begins entering the headworks, forcing all coarse bar screens (CBS) out of service \[page: 32].
 
-\* \[cite\_start]\*\*May 2023:\*\* TDEC issues an NOV for permit excursions occurring between January and April\[cite: 38]. \[cite\_start]Judgment is finalized in the HLSD trial\[cite: 39].
+\- \*\*May 2023:\*\* TDEC issues an NOV for permit excursions occurring between January and April \[page: 38]. Judgment is finalized in the HLSD trial \[page: 39].
 
-\* \[cite\_start]\*\*June 2023:\*\* An employee strike at Solae leads to a loading baseline for the plant during their downtime\[cite: 39]. \[cite\_start]A 16-inch primary sludge line is hit by a contractor, and a separate industrial leak of muriatic acid coats the primary clarifiers\[cite: 39].
+\- \*\*June 2023:\*\* An employee strike at Solae leads to a loading baseline for the plant during their downtime \[page: 39]. A 16-inch primary sludge line is hit by a contractor, and a separate industrial leak of muriatic acid coats the primary clarifiers \[page: 39].
 
-\* \[cite\_start]\*\*July 2023:\*\* High winds knock down ten power poles, forcing a switch to the south electrical circuit\[cite: 40]. \[cite\_start]Fine bubble diffusers (FBD) show signs of heavy fouling, and a plant-wide power outage on July 25 results in a 1.7-million-gallon overflow\[cite: 40, 44].
+\- \*\*July 2023:\*\* High winds knock down ten power poles, forcing a switch to the south electrical circuit \[page: 40]. Fine bubble diffusers (FBD) show signs of heavy fouling, and a plant-wide power outage on July 25 results in a 1.7-million-gallon overflow \[page: 40, 44].
 
-\* \[cite\_start]\*\*August 2023:\*\* The EPA signals a judicial referral to the DOJ regarding ongoing non-compliance\[cite: 48]. \[cite\_start]High temperatures and low water pressure cause cooling failures for blower motors\[cite: 47].
+\- \*\*August 2023:\*\* The EPA signals a judicial referral to the DOJ regarding ongoing non-compliance \[page: 48]. High temperatures and low water pressure cause cooling failures for blower motors \[page: 47].
 
-\* \[cite\_start]\*\*September 2023:\*\* \*\*Legal Milestone:\*\* The Judge issues the final ruling in the HLSD lawsuit, requiring the jurisdiction to submit a construction schedule for its own treatment facilities by year-end\[cite: 56].
+\- \*\*September 2023:\*\* \*\*Legal Milestone:\*\* The Judge issues the final ruling in the HLSD lawsuit, requiring the jurisdiction to submit a construction schedule for its own treatment facilities by year-end \[page: 56].
 
-\* \*\*October 2023:\*\* The Mississippi River reaches a record low stage of -12.04 feet, impacting plant bypass operations.
+\- \*\*October 2023:\*\* The Mississippi River reaches a record low stage of -12.04 feet, impacting plant bypass operations.
 
-\* \*\*November 2023:\*\* Maintenance focuses on replacing bio-pump motor starters and addressing recurring electrical gear issues.
+\- \*\*November 2023:\*\* Maintenance focuses on replacing bio-pump motor starters and addressing recurring electrical gear issues.
 
-\* \*\*December 2023:\*\* The facility records 95 permit excursions, primarily for BOD and TSS, ending a year of high regulatory pressure.
+\- \*\*December 2023:\*\* The facility records 95 permit excursions, primarily for BOD and TSS, ending a year of high regulatory pressure.
 
 
 

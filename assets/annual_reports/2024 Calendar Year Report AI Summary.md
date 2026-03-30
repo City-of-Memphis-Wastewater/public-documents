@@ -86,31 +86,31 @@ The plant tracks its efficiency through several standard wastewater indicators:
 
 
 
-\[cite\_start]The 2024 calendar year was dominated by the emergency repair of the Nonconnah Interceptor and the sudden impact of the xAI "Colossus" supercomputer project\[cite: 272, 282].
+The 2024 calendar year was dominated by the emergency repair of the Nonconnah Interceptor and the sudden impact of the xAI "Colossus" supercomputer project \[page: 272, 282].
 
 
 
-\* \[cite\_start]\*\*January 2024:\*\* Heavy grease (12-18 inches thick) prevents the restart of the 96-inch bypass\[cite: 272]. \[cite\_start]Sub-freezing temperatures and 6 inches of snow lead to burst pipes and blower failures due to low water pressure\[cite: 272].
+\- \*\*January 2024:\*\* Heavy grease (12-18 inches thick) prevents the restart of the 96-inch bypass \[page: 272]. Sub-freezing temperatures and 6 inches of snow lead to burst pipes and blower failures due to low water pressure \[page: 272].
 
-\* \[cite\_start]\*\*February 2024:\*\* The south coarse bar screen rake malfunctions due to over-torquing from sewer debris\[cite: 273]. \[cite\_start]Analysis of brown grease on the clarifiers identifies high concentrations of oleic acid from animal/vegetable origins\[cite: 273].
+\- \*\*February 2024:\*\* The south coarse bar screen rake malfunctions due to over-torquing from sewer debris \[page: 273]. Analysis of brown grease on the clarifiers identifies high concentrations of oleic acid from animal/vegetable origins \[page: 273].
 
-\* \[cite\_start]\*\*March 2024:\*\* Xylem begins emergency Nonconnah bypass pumping\[cite: 277]. \[cite\_start]Extreme detergent-like foam in aeration basins is sampled and linked to fatty acids stabilized by surfactants\[cite: 277].
+\- \*\*March 2024:\*\* Xylem begins emergency Nonconnah bypass pumping \[page: 277]. Extreme detergent-like foam in aeration basins is sampled and linked to fatty acids stabilized by surfactants \[page: 277].
 
-\* \[cite\_start]\*\*April 2024:\*\* Sheet piling for the interceptor repair is completed\[cite: 278]. \[cite\_start]A contractor is hired to clean fine bubble diffusers, successfully dropping the Dynamic Wet Pressure (DWP) from 40 to 30 inches\[cite: 278].
+\- \*\*April 2024:\*\* Sheet piling for the interceptor repair is completed \[page: 278]. A contractor is hired to clean fine bubble diffusers, successfully dropping the Dynamic Wet Pressure (DWP) from 40 to 30 inches \[page: 278].
 
-\* \[cite\_start]\*\*May 2024:\*\* Heavy rains lead to reported (though suspected) pumping rates of up to 170 mgd\[cite: 279]. \[cite\_start]Distribution arms on Trickling Filters (TF) 1 and 5 fail, and the 96-inch sewer plug is found caught in the coarse bar screens\[cite: 279].
+\- \*\*May 2024:\*\* Heavy rains lead to reported (though suspected) pumping rates of up to 170 mgd \[page: 279]. Distribution arms on Trickling Filters (TF) 1 and 5 fail, and the 96-inch sewer plug is found caught in the coarse bar screens \[page: 279].
 
-\* \[cite\_start]\*\*June 2024:\*\* Media reports confirm xAI is building a supercomputer at the Electrolux site\[cite: 282]. \[cite\_start]The City accelerates planning for a grey water (tertiary treatment) facility to support xAI's cooling needs\[cite: 282].
+\- \*\*June 2024:\*\* Media reports confirm xAI is building a supercomputer at the Electrolux site \[page: 282]. The City accelerates planning for a grey water (tertiary treatment) facility to support xAI's cooling needs \[page: 282].
 
-\* \[cite\_start]\*\*July 2024:\*\* Demolition of the original Administration Building begins\[cite: 247]. \[cite\_start]The City and xAI review competing conceptual designs for the grey water plant, with costs ranging from $90 million to $170 million\[cite: 283].
+\- \*\*July 2024:\*\* Demolition of the original Administration Building begins \[page: 247]. The City and xAI review competing conceptual designs for the grey water plant, with costs ranging from $90 million to $170 million \[page: 283].
 
-\* \[cite\_start]\*\*August 2024:\*\* Maintenance efforts focus on the ongoing failure of trickling filter distribution arms, leaving only one unit functional\[cite: 283].
+\- \*\*August 2024:\*\* Maintenance efforts focus on the ongoing failure of trickling filter distribution arms, leaving only one unit functional \[page: 283].
 
-\* \[cite\_start]\*\*September 2024:\*\* The 96-inch Nonconnah Interceptor repair continues with approximately 310 feet of pipe remaining to be laid\[cite: 283].
+\- \*\*September 2024:\*\* The 96-inch Nonconnah Interceptor repair continues with approximately 310 feet of pipe remaining to be laid \[page: 283].
 
-\* \[cite\_start]\*\*October 2024:\*\* Evaluations of the 60-inch bypass line are finalized to ensure stability during the final phases of the interceptor repair\[cite: 279].
+\- \*\*October 2024:\*\* Evaluations of the 60-inch bypass line are finalized to ensure stability during the final phases of the interceptor repair \[page: 279].
 
-\* \[cite\_start]\*\*November 2024:\*\* Emerson continues troubleshooting the DCS system to locate missing I/O points required for full integration into the new Administration Building\[cite: 247].
+\- \*\*November 2024:\*\* Emerson continues troubleshooting the DCS system to locate missing I/O points required for full integration into the new Administration Building \[page: 247].
 
-\* \*\*December 2024:\*\* Major tunnel flooding occurs, damaging several motors and contributing to 58 permit excursions for the month.
+\- \*\*December 2024:\*\* Major tunnel flooding occurs, damaging several motors and contributing to 58 permit excursions for the month.
 

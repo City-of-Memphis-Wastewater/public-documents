@@ -6,6 +6,12 @@ The format is (read: strives to be) based on [Keep a Changelog](https://keepacha
 
 ---
 
+## [0.1.2] – 2026-04-23
+### Added:
+- Add 2021 and 2020 AI summaries. Add 2021 PDF report.
+
+---
+
 ## [0.1.1] – 2026-03-30
 ### Added:
 - 2022 Calendar Year Report.pdf

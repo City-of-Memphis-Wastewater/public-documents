@@ -1,13 +1,3 @@
-```gemini
-Please generate a summary of this PDF.
-
-Also generate lists of all equipment discussed, contractors mentioned, interesting vocabulary words, failure modes indicated, key metric for performance, which phenomena was tracked in depth, and more. 
-
-(attach N:\\Environmental\\Treatment Plants\\Don's Folder\\2024 Annual Report\\2024 Calendar Year Report.pdf)
-```
-
-Based on the 2024 Calendar Year Report for the City of Memphis Wastewater Treatment Facilities, here is the requested summary and detailed categorized information.
-
 ### Executive Summary
 
 The 2024 report details a year marked by significant infrastructure challenges, regulatory pressures, and major new industrial developments. The Maxson Wastewater Treatment Facility faced severe operational disruptions due to heavy grease accumulation, sub-freezing weather in January, and a major failure of the 96-inch Nonconnah Interceptor. These events led to numerous permit excursions for Biological Oxygen Demand (BOD) and Total Suspended Solids (TSS). Simultaneously, the city navigated the entry of xAI’s "Colossus" supercomputer project, which necessitates the rapid development of a grey water (tertiary treatment) facility to provide cooling water and reduce reliance on local aquifers. Maintenance activities were high, with over 6,000 work orders completed at Maxson alone, focusing on rebuilding aging pump and blower infrastructure.

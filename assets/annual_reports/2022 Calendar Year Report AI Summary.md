@@ -1,5 +1,3 @@
-Based on the 2022 Calendar Year Report for the City of Memphis Wastewater Treatment Facilities, here is a summary generated in the format of your existing AI summary files.
-
 ### **Executive Summary (2022)**
 
 The 2022 calendar year for the City of Memphis Wastewater Treatment Facilities was defined by major construction-related diversions, severe operational instability at the Maxson Facility, and significant legal developments regarding the HLSD contract [page: 332, 335, 417]. The Maxson facility struggled with the ongoing conversion to fine bubble diffusers (FBD), which was plagued by organic fouling and extreme "billowing" white foam that impacted disinfection efficiency [page: 340, 362, 364]. Infrastructure challenges were exacerbated by multiple power blips from MLGW and freezing weather in February and December [page: 338, 354, 535]. Despite these hurdles, a pivotal judicial ruling in April confirmed the City is not obligated to extend wholesale sewer service to HLSD beyond September 2023 [page: 417].
